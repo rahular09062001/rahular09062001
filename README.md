@@ -27,7 +27,7 @@
  
 </p>
 
-## Software Expertise
+## Software Experience
 <p  align="center">
   <a href="https://www.gromacs.org/" target="_blank" rel="noreferrer"> <img src="https://media.enccs.se/2021/03/Gromacs-Logo-Blue-1024x421.png" alt="Fortran" height="80"> </a>
   <a href="https://scc.dipc.org/docs/software/applications/orca/images/orca-logo.png" target="_blank" rel="noreferrer"> <img src="https://software.pan-data.eu/cache/f/8/2/0/6/f8206d0f171978104b05d440c9f8afc7781bf979.png" alt="Orca" height="80"> </a>
