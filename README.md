@@ -15,8 +15,9 @@
   
   ##
 <picture><image align="center" src="https://structuralbioinformatician.files.wordpress.com/2013/03/1ece.gif" width="250px"></picture>
-<picture><image align="center"  src="https://i.makeagif.com/media/8-25-2016/rH4cOk.gif" width="250px"></picture>
+<picture><image align="center" src="https://www.cresset-group.com/media/uploads/files/5a8e_membrane.gif" height="250px"></picture>
 <picture><image align="center" src="https://bio.libretexts.org/@api/deki/files/34336/7rsaMorphUnfoldedtoFoldedAnimatedA.gif?revision=1" width="250px"></picture>
+
 
 
   
