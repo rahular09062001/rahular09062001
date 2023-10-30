@@ -25,10 +25,17 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="60" height="60"/> </a>
 <a> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="60" height="60"/> </a>
  
- 
- 
 </p>
 
+## Software Expertise
+<p  align="center">
+  <a href="https://www.gromacs.org/" target="_blank" rel="noreferrer"> <img src="https://media.enccs.se/2021/03/Gromacs-Logo-Blue-1024x421.png" alt="Fortran" height="80"> </a>
+  <a href="https://scc.dipc.org/docs/software/applications/orca/images/orca-logo.png" target="_blank" rel="noreferrer"> <img src="https://software.pan-data.eu/cache/f/8/2/0/6/f8206d0f171978104b05d440c9f8afc7781bf979.png" alt="Orca" height="80"> </a>
+  <a href="https://gaussian.com/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/984801900292784129/TuHbpUEd_400x400.jpg" alt="Gaussian" height="80"> </a>
+  <a href="https://elk.sourceforge.io/" target="_blank" rel="noreferrer"> <img src="https://www.mpi-halle.mpg.de/event_images/12677-1530024564.jpeg" alt="Elk Code" height="80"> </a>
+  
+
+</p>
 
   
 
