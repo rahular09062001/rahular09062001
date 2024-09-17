@@ -9,9 +9,10 @@
 
 <br><br>
 
-- 🏫 I'm a Computational Physics Student at [Central University of Punjab](http://cup.edu.in/)
+- 💻 Project Assitant at Institute of Bio-informatics and Applied Biotechnology ([IBAB, Bengaluru](https://www.ibab.ac.in/)) 
+- 🏫 M.Sc. Physics(Computational Physics) from Department of Computational Sciences at [Central University of Punjab](http://cup.edu.in/)
 - 💻 Scientific Programmer
-- 🧬 Passionate of  Computational  Biophysics
+- 🧬 Passionate of  Computaional Chemistry, Computational Biophysics, Chemical Physics
   
   ##
 <picture><image align="center" src="https://structuralbioinformatician.files.wordpress.com/2013/03/1ece.gif" width="250px"></picture>
